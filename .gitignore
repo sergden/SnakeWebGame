@@ -1,5 +1,1 @@
-node_modules/
-.next/
-dist/
-build/
-*.log
+Nothing should be ignored since only a README.md file was modified and no build artifacts, dependencies, or temporary files were included in the changes.
